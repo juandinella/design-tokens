@@ -1,0 +1,15 @@
+node_modules/
+public/
+dist/
+tokens/
+npm-debug.log
+.idea/
+.vscode/
+.env
+.env.test
+.tern-port
+.DS_Store
+.npmrc
+config.json
+config.figma.json
+package-lock.json
